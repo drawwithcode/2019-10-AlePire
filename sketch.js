@@ -27,7 +27,7 @@ function preload(){
   trigger2 = loadImage("assets/image2.png");
   trigger3 = loadImage("assets/image3.png");
   trigger4 = loadImage("assets/image4.png");
-  trigger5 = loadImage("assets/image5.png");
+  trigger5 = loadImage("assets/Image5.png");
 }
 
 function setup() {
