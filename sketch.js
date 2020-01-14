@@ -3,7 +3,7 @@ var trigger;
 var trigger2;
 var trigger3;
 var trigger4;
-var starttext;
+var trigger5;
 var value = 0;
 
 var r1 = 0;
